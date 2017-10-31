@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hexo": "^3.3.9"
+    "hexo": "^3.3.9",
+    "hexo-admin": "^2.2.1"
   },
   "devDependencies": {
     "hexo": "^3.3.9"
